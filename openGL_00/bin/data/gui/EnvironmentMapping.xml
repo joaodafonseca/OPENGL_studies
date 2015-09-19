@@ -1,0 +1,8 @@
+<multipleTexture>
+	<lightPosition>0, 0, 0</lightPosition>
+<EnvironmentMapping>
+		<lightPosition>497.959, 187.755, 0</lightPosition>
+		<baseColor>126.199, 162.628, 184.745</baseColor>
+		<mixRatio>0.8</mixRatio>
+	</EnvironmentMapping>
+</multipleTexture>

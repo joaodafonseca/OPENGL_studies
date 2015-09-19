@@ -1,0 +1,11 @@
+<Lattice>
+	<LightPosition>530.612, 0, 0</LightPosition>
+	<LightColor>68, 110, 238, 255</LightColor>
+	<Specular>208, 204, 204, 255</Specular>
+	<Ambient>131, 173, 173, 255</Ambient>
+	<Kd>10</Kd>
+	<SurfaceColor>90, 235, 192, 255</SurfaceColor>
+	<Threshold>0.25, 0.0969388</Threshold>
+	<Scale>1, 1</Scale>
+<Lattice/>
+</Lattice>

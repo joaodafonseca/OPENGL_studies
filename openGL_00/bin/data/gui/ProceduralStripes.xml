@@ -1,0 +1,13 @@
+<ProceduralStripes>
+	<LightPosition>800, 702.041, 497.959</LightPosition>
+	<LightColor>255, 0, 14, 255</LightColor>
+	<Specular>140, 255, 65, 255</Specular>
+	<Ambient>58, 170, 165, 243</Ambient>
+	<Kd>1.8</Kd>
+	<StripeColor>0, 0, 0, 255</StripeColor>
+	<BackColor>255, 255, 255, 255</BackColor>
+	<Width>0.555</Width>
+	<Fuzz>0.04</Fuzz>
+	<Scale>10</Scale>
+<ProceduralStripes/>
+</ProceduralStripes>

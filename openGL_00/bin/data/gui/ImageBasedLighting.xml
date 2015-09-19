@@ -1,0 +1,5 @@
+<ImageBasedLighting>
+	<LightPosition>0, 0, 0</LightPosition>
+	<SkyColor>204, 206, 204, 255</SkyColor>
+	<GroundColor>197, 162, 192, 255</GroundColor>
+</ImageBasedLighting>

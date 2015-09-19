@@ -1,0 +1,14 @@
+<GlyphBombing>
+	<specularContribution>0.22</specularContribution>
+	<lightPosition>0, 0, 0</lightPosition>
+	<BaseColor>255, 0, 0, 255</BaseColor>
+	<scaleFactor>16.9</scaleFactor>
+	<modelColor>187, 135, 123, 255</modelColor>
+	<colAjust>0.585</colAjust>
+	<percentage>1</percentage>
+	<samplePerCell>1.15</samplePerCell>
+	<R01>0.02</R01>
+	<randomScale>1</randomScale>
+	<randomRotate>1</randomRotate>
+<GlyphBombing/>
+</GlyphBombing>

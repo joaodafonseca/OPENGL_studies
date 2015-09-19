@@ -1,0 +1,16 @@
+<ToyBall>
+	<StripeWidth>0.25</StripeWidth>
+	<InOrOutInit>-3</InOrOutInit>
+	<FWidth>0.01</FWidth>
+	<StarColor>37, 255, 255, 255</StarColor>
+	<StripeColor>255, 255, 255, 255</StripeColor>
+	<BaseColor>255, 13, 35, 255</BaseColor>
+	<LightDir>0, 0.729592, 1, 1</LightDir>
+	<HVector>0, 0, 1, 1</HVector>
+	<SpecularColor>143, 255, 153, 255</SpecularColor>
+	<SpecularExponent>0</SpecularExponent>
+	<Ka>0.19</Ka>
+	<kd>0.785</kd>
+	<Ks>0.08</Ks>
+<ToyBall/>
+</ToyBall>
